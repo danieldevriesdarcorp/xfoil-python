@@ -12,6 +12,7 @@ add_executable(xfoil
         src/userio.f
         src/xbl.f
         src/xblsys.f
+        src/xblutil.f
         src/xfoil.f
         src/xgdes.f
         src/xgeom.f
